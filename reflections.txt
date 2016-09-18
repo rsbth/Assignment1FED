@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta author="R.S.Bharadwaj"> 
+<title> Reflections on the Assignment </title>
+</head>
+<body>
+/*You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+*/
+<h1> New Skills Learn't </h1>
+<p>The assignment had been fun and was a nice refresher for HTML </p>
+<ul type="disc">
+<li> Adapting to the given framework </li>
+<li> Requirement Analysis </li>
+<li> Adding value despite being constrained with specified requirement </li>
+</ul>
+<h1>What's been easy ? </h1>
+<p> Assignment wasn't a tough one actually but that is probably due to the fact that i already knew something. However, i found the requirement to be simple as it is short and not very time consuming.</p>
+<h1>Problem Solving Strategy</h1>
+<p>Yes and it is helpful</p>
+</body>
+</html>
